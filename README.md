@@ -7,6 +7,11 @@ This detail logger app shows a simple user profile app set up using
 
 All components are docker-based
 
+Frontend looks something like this -
+
+![front](https://github.com/rakshaa-01/detail-logger-app-docker/assets/97796804/530a8f05-8de4-4cd3-b23d-afc166e2cea4)
+
+
 ### With Docker
 
 #### To start the application
